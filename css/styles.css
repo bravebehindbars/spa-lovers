@@ -1,0 +1,35 @@
+
+body {
+  background-image: url("file://C:/Users/STUDENT.MCIF-VLAN-14476/Desktop/Lucnalie Coding/Projets/Final-Project/image/Beach.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+.container {
+  display: grid;
+  gap: 50px 100px;
+  grid-template-columns: auto auto auto;
+  padding: 15px;
+  text-align: center;
+  
+}
+
+.container > div {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.conta{
+  padding: 30px;
+}
+
+
+.position{
+  position top: fixed;
+}
+
+
